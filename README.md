@@ -1,4 +1,7 @@
-### Parkinsons Disease predcition  ###
+Parkinsons Disease predcition<a name="TOP"></a>
+================================================
 
-Markdown Cheatsheet<a name="TOP"></a>
-===================
+
+#### Parkinsons disease prediction using clinical data ####
+
+
